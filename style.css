@@ -1,0 +1,13 @@
+h2{
+    color: rgb(153, 51, 75);
+}
+fieldset{
+    width:100%;
+    max-width: 900px;
+    background-color: hsla(180, 100%, 50%,0.1);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#About{
+    border:9px,dotted,hsla(249, 80%, 67%,0.2);
+}
