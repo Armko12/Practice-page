@@ -1,5 +1,5 @@
 h2{
-    color: rgb(153, 51, 75);
+    color: rgba(153, 51, 75,0.3);
 }
 fieldset{
     width:100%;
@@ -10,4 +10,18 @@ fieldset{
 }
 #About{
     border:9px,dotted,hsla(249, 80%, 67%,0.2);
+}
+
+.model-box{
+    font-size:42px ;
+}
+
+@media (max-width:420px) {
+    .model-box{
+        font-size:20px;
+        
+
+    }
+
+    
 }
